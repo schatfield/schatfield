@@ -2,12 +2,18 @@
 ### Welcome to my GitHub 🤘
 <i> for those about to rock... </i>
 
+### - 🔭 Currently building (and breaking):
+
+<i>Personal Portfolio v 2.0</i>
+
+### - When I'm not hacking:
+
+<i>I'm probably sat under a tree somewhere reading yet another murder mystery...</i>
 
 
-
-🌐
+### - 🌐 
 * <a href="https://www.linkedin.com/in/shawna-chatfield/">LinkedIn</a>
-* GitHub
+* <a href="https://github.com/schatfield">GitHub</a>
 * Email
 
 
