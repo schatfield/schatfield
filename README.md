@@ -6,9 +6,9 @@
 
 <i>Personal Portfolio v 2.0</i>
 
-### - ∞ ϟ 9¾ ♔ ⚯͛ △⃒⃘ ➵ ♆ When I'm not practicing my spells:
+### - 🔮 When I'm not practicing my spells:
 
-<i>I'm probably sat under a tree somewhere reading a gothic period novel...</i>
+<i>I'm probably sat under a tree somewhere reading a gothic novel...</i>
 
 
 ### - 🌐 
