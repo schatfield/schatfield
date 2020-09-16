@@ -1,4 +1,5 @@
-### Hi 👋, I'm Shawna. Welcome to my GitHub
+### Hi 👋, I'm Shawna. 
+<br>Welcome to my GitHub
 <i> where the magic happens </i>
 
 <!--
