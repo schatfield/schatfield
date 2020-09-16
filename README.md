@@ -12,7 +12,8 @@
 🌐 Connect:
 * <a href="https://www.linkedin.com/in/shawna-chatfield/">LinkedIn</a>
 * <a href="https://github.com/schatfield">GitHub</a>
-* Email
+* <a href="mailto: chatfield.shc@gmail.com">Email</a>
+
 
 
 <!--
