@@ -1,7 +1,5 @@
 ### Hi 👋, I'm Shawna. 
-<br><b>Welcome to my GitHub:</b><br>
-<i> sometimes where the magic happens </i>
-
+### Welcome to my GitHub
 <!--
 **schatfield/schatfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
