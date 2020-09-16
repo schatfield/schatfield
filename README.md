@@ -1,5 +1,5 @@
 ### Hi, I'm Shawna. Welcome to my GitHub 🤘
-<i> for those about to rock... </i>
+<i> For those about to rock... </i>
 
 🧙 <b>Currently building (and breaking):</b>
 
