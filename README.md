@@ -5,8 +5,8 @@
 
 
 
-###🌐
-* LinkedIn
+🌐
+* <a href="https://www.linkedin.com/in/shawna-chatfield/">LinkedIn</a>
 * GitHub
 * Email
 
