@@ -4,8 +4,10 @@
 
 
 
-
-Let's be friends:
+<br>
+<br>
+<br>
+🌐
 * LinkedIn
 * GitHub
 * Email
