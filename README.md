@@ -1,11 +1,11 @@
 ### Hi, I'm Shawna. Welcome to my GitHub 🤘
 <i> for those about to rock... </i>
 
-🧙 Currently building (and breaking):
+🧙 <b>Currently building (and breaking):</b>
 
 <i>Personal Portfolio v 2.0</i>
 
-🔮 When I'm not practicing my spells:
+🔮 <b>When I'm not practicing my spells:</b>
 
 <i>I'm probably sat under a tree somewhere reading a gothic novel...</i>
 
