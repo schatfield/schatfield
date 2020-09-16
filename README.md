@@ -1,6 +1,16 @@
 ### Hi, I'm Shawna. 
 ### Welcome to my GitHub 🤘
 <i> for those about to rock... </i>
+
+
+
+
+Let's be friends:
+* LinkedIn
+* GitHub
+* Email
+
+
 <!--
 **schatfield/schatfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
