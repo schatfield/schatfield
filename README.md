@@ -4,10 +4,8 @@
 
 
 
-<br>
-<br>
-<br>
-🌐
+
+###🌐
 * LinkedIn
 * GitHub
 * Email
