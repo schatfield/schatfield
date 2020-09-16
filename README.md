@@ -9,7 +9,7 @@
 
 <i>I'm probably sat under a tree somewhere reading a gothic novel...</i>
 
-🌐 Connect:
+🌐 <b>Connect:</b>
 * <a href="https://www.linkedin.com/in/shawna-chatfield/">LinkedIn</a>
 * <a href="https://github.com/schatfield">GitHub</a>
 * <a href="mailto: chatfield.shc@gmail.com">Email</a>
