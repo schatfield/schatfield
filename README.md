@@ -7,7 +7,7 @@
 
 🔮 <b>When I'm not practicing my spells:</b>
 
-<i>I'm probably sat under a tree somewhere reading a gothic novel...</i>
+<i>I'm probably sat under a tree somewhere reading a murder mystery...</i>
 
 🌐 <b>Connect:</b>
 * <a href="https://www.linkedin.com/in/shawna-chatfield/">LinkedIn</a>
